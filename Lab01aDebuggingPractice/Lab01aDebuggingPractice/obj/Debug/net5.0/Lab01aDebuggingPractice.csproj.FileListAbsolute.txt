@@ -1,0 +1,16 @@
+C:\Users\joelc\Documents\projects\codefellows\401\Labs\Lab01aDebuggingPractice\Lab01aDebuggingPractice\bin\Debug\net5.0\Lab01aDebuggingPractice.exe
+C:\Users\joelc\Documents\projects\codefellows\401\Labs\Lab01aDebuggingPractice\Lab01aDebuggingPractice\bin\Debug\net5.0\Lab01aDebuggingPractice.deps.json
+C:\Users\joelc\Documents\projects\codefellows\401\Labs\Lab01aDebuggingPractice\Lab01aDebuggingPractice\bin\Debug\net5.0\Lab01aDebuggingPractice.runtimeconfig.json
+C:\Users\joelc\Documents\projects\codefellows\401\Labs\Lab01aDebuggingPractice\Lab01aDebuggingPractice\bin\Debug\net5.0\Lab01aDebuggingPractice.runtimeconfig.dev.json
+C:\Users\joelc\Documents\projects\codefellows\401\Labs\Lab01aDebuggingPractice\Lab01aDebuggingPractice\bin\Debug\net5.0\Lab01aDebuggingPractice.dll
+C:\Users\joelc\Documents\projects\codefellows\401\Labs\Lab01aDebuggingPractice\Lab01aDebuggingPractice\bin\Debug\net5.0\ref\Lab01aDebuggingPractice.dll
+C:\Users\joelc\Documents\projects\codefellows\401\Labs\Lab01aDebuggingPractice\Lab01aDebuggingPractice\bin\Debug\net5.0\Lab01aDebuggingPractice.pdb
+C:\Users\joelc\Documents\projects\codefellows\401\Labs\Lab01aDebuggingPractice\Lab01aDebuggingPractice\obj\Debug\net5.0\Lab01aDebuggingPractice.csprojAssemblyReference.cache
+C:\Users\joelc\Documents\projects\codefellows\401\Labs\Lab01aDebuggingPractice\Lab01aDebuggingPractice\obj\Debug\net5.0\Lab01aDebuggingPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joelc\Documents\projects\codefellows\401\Labs\Lab01aDebuggingPractice\Lab01aDebuggingPractice\obj\Debug\net5.0\Lab01aDebuggingPractice.AssemblyInfoInputs.cache
+C:\Users\joelc\Documents\projects\codefellows\401\Labs\Lab01aDebuggingPractice\Lab01aDebuggingPractice\obj\Debug\net5.0\Lab01aDebuggingPractice.AssemblyInfo.cs
+C:\Users\joelc\Documents\projects\codefellows\401\Labs\Lab01aDebuggingPractice\Lab01aDebuggingPractice\obj\Debug\net5.0\Lab01aDebuggingPractice.csproj.CoreCompileInputs.cache
+C:\Users\joelc\Documents\projects\codefellows\401\Labs\Lab01aDebuggingPractice\Lab01aDebuggingPractice\obj\Debug\net5.0\Lab01aDebuggingPractice.dll
+C:\Users\joelc\Documents\projects\codefellows\401\Labs\Lab01aDebuggingPractice\Lab01aDebuggingPractice\obj\Debug\net5.0\ref\Lab01aDebuggingPractice.dll
+C:\Users\joelc\Documents\projects\codefellows\401\Labs\Lab01aDebuggingPractice\Lab01aDebuggingPractice\obj\Debug\net5.0\Lab01aDebuggingPractice.pdb
+C:\Users\joelc\Documents\projects\codefellows\401\Labs\Lab01aDebuggingPractice\Lab01aDebuggingPractice\obj\Debug\net5.0\Lab01aDebuggingPractice.genruntimeconfig.cache
